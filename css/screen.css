@@ -460,6 +460,9 @@ article .text p, article .text pre, article .text img, article .text ol, article
     margin-bottom: 30px;
     text-align: left
 }
+article .text p{
+    text-align : justify;
+}
 article .text>div {
     margin-bottom: 30px
 }
