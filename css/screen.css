@@ -640,7 +640,7 @@ article .text hr {
 article .text blockquote {
     margin: 42px 10px;
     padding-left: 20px;
-    border-left: 4px solid #ededee;
+    border-left: 4px solid #d35c5c;
     font-size: 23px
 }
 article .text table {
