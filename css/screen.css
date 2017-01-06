@@ -55,10 +55,47 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
     font-style: normal
 }
 
+@font-face {
+  font-family: "Roboto Slab";
+  font-style: normal;
+  font-weight: 300;
+  src: local("Roboto Slab Light"), local("RobotoSlab-Light"), url("http://fonts.gstatic.com/s/robotoslab/v6/dazS1PrQQuCxC3iOAJFEJUo2lTMeWA_kmIyWrkNCwPc.woff2") format("woff2");
+  unicode-range: U+0-FF, U+131, U+152-153, U+2C6, U+2DA, U+2DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+
+@font-face {
+  font-family: "Open Sans Light";
+  font-style: normal;
+  font-weight: 300;
+  src: local("Open Sans Light"), local("OpenSans-Light"), url("https://fonts.gstatic.com/s/opensans/v13/DXI1ORHCpsQm3Vp6mXoaTegdm0LZdjqr5-oayXSOefg.woff2") format("woff2");
+  unicode-range: U+0-FF, U+131, U+152-153, U+2C6, U+2DA, U+2DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+
+@font-face {
+  font-family: 'FiraSansRegular';
+  src: 
+    url('../assets/fonts/FiraSans-Regular.otf') format('opentype');
+}
+
+
+@font-face {
+  font-family: 'Belleza';
+  src: 
+    local('Belleza'),
+    local('Belleza-Regular'), 
+    url('../assets/fonts/Belleza400.woff') format('woff');
+}
+
+
 body {
     font-family: "Open Sans", "Helvetica Neue", "Helvetica-Neue", helvetica, sans-serif
 }
-body .btn, body>header h1, body article header h1, body>footer .details h4, body .post-footer .details h4, body #share_modal header a.close, body.user article.feature h1 a {
+
+body article header h1 {
+    font-family: 'FiraSansRegular';
+}
+
+body .btn, body>header h1, body>footer .details h4, body .post-footer .details h4, body #share_modal header a.close, body.user article.feature h1 a {
     font-family: "Open Sans", "Helvetica Neue", "Helvetica-Neue", helvetica, sans-serif
 }
 body.serif {
@@ -358,7 +395,8 @@ body>header {
 body>header h1 {
     padding: 58px 100px 60px 100px;
     font-size: 36px;
-    font-weight: bold
+    font-weight: bold;
+
 }
 body>header h1 a {
     color: #21272d
@@ -644,7 +682,8 @@ article .text blockquote {
     margin: 42px 10px;
     padding-left: 20px;
     border-left: 4px solid #d35c5c;
-    font-size: 23px
+    font-size: 23px;
+    font-family: 'Roboto Slab';
 }
 article .text table {
     display: block;
