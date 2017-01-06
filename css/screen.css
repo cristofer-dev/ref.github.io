@@ -56,10 +56,9 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
 }
 
 @font-face {
-  font-family: "Roboto Slab";
-  font-style: normal;
-  font-weight: 300;
-  src: local("Roboto Slab Light"), local("RobotoSlab-Light"), url("http://fonts.gstatic.com/s/robotoslab/v6/dazS1PrQQuCxC3iOAJFEJUo2lTMeWA_kmIyWrkNCwPc.woff2") format("woff2");
+  
+  
+   url("http://fonts.gstatic.com/s/robotoslab/v6/dazS1PrQQuCxC3iOAJFEJUo2lTMeWA_kmIyWrkNCwPc.woff2") format("woff2");
   unicode-range: U+0-FF, U+131, U+152-153, U+2C6, U+2DA, U+2DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
 }
 
@@ -86,6 +85,15 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
     url('../assets/fonts/Belleza400.woff') format('woff');
 }
 
+@font-face {
+  font-family: "Roboto Slab";
+  font-style: normal;
+  font-weight: 300;
+  src: 
+    local("Roboto Slab Light"), 
+    local("RobotoSlab-Light"),
+    url('../assets/fonts/RobotoSlabLight.woff2') format('woff2');
+}
 
 body {
     font-family: "Open Sans", "Helvetica Neue", "Helvetica-Neue", helvetica, sans-serif
