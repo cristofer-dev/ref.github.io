@@ -18,7 +18,7 @@ No saber qué pasará mañana te provoca temor y angustia, pero al final entiend
 
 ## Marcharse no es olvidar 
 
-Te sientes culpable en el fondo por ser tú quien se marcha, sabes que **marcharse no es olvidar**, que todos van en tu corazón hasta el fin del mundo, quisieras que también lo entendieran de esa forma, pero solo te queda la esperanza que tampoco te olviden.
+Te sientes culpable en el fondo por ser tú quien se marcha, sabes que **marcharse no es olvidar**, que todos van en tu corazón hasta el fin del mundo, quisieras que también lo entendieran de esa forma, pero solo te queda la esperanza que tampoco te olviden y entiendan que **marcharse no es olvidar**.
 
 Cada regreso está cargado de emociones diferentes , siempre tienes la esperanza de encontrarlos a todos pero te das cuenta que es inevitable el cambio, solo han pasado algunos meses y ya sientes que todo es diferente y que ya nada volverá a ser como antes.
 
