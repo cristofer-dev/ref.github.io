@@ -1,5 +1,5 @@
 ---
-name: Reporte de bug
+name: my Reporte de bug
 about: Create a report to help us improve
 title: ''
 labels: ''
